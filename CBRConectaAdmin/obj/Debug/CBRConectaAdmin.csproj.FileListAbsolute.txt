@@ -1,0 +1,185 @@
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\CBRConectaAdmin.exe.config
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\CBRConectaAdmin.exe
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\CBRConectaAdmin.pdb
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.AssemblyReference.cache
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.ResolveComReference.cache
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmLogin.resources
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.Properties.Resources.resources
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.GenerateResource.cache
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.CoreCompileInputs.cache
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.exe
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.AssemblyReference.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.ResolveComReference.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmLogin.resources
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmMen.resources
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.Properties.Resources.resources
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.GenerateResource.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.CoreCompileInputs.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.exe
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.pdb
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\CBRConectaAdmin.exe.config
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\CBRConectaAdmin.exe
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\CBRConectaAdmin.pdb
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\MaterialSkin.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Newtonsoft.Json.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Buffers.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Collections.Immutable.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Memory.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Numerics.Vectors.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Encodings.Web.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Json.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.ValueTuple.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Diagnostics.Eventing.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Newtonsoft.Json.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Buffers.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Collections.Immutable.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Memory.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Numerics.Vectors.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Encodings.Web.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Json.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.ValueTuple.xml
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Diagnostics.Eventing.pdb
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Interop.AcroPDFLib.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\AxInterop.AcroPDFLib.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.AssemblyReference.cache
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.SuggestedBindingRedirects.cache
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\Interop.AcroPDFLib.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.ResolveComReference.cache
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmLogin.resources
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.Properties.Resources.resources
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.GenerateResource.cache
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.CoreCompileInputs.cache
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.CopyComplete
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.exe
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.pdb
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmMain.resources
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmUpload.resources
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmSingup.resources
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\MaterialSkin.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Buffers.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Memory.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Json.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.ValueTuple.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Buffers.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Memory.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Json.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.ValueTuple.xml
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmMain.resources
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmUpload.resources
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmSingup.resources
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.SuggestedBindingRedirects.cache
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.CopyComplete
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.ControlProyectos.VerProyecto.resources
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.ControlProyectos.CrearProyecto.resources
+C:\Users\elagu\Documents\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmProyectos.resources
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.ControlProyectos.CrearProyecto.resources
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.ControlProyectos.VerProyecto.resources
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmProyectos.resources
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Foundation.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Foundation.Logging.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.Composition.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.Dispatching.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.v1.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.v2.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.Toolkit.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Xaml.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.pdb
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\CBRConectaAdmin.exe.config
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\CBRConectaAdmin.exe
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\CBRConectaAdmin.pdb
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\MaterialSkin.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Buffers.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Memory.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Json.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.ValueTuple.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Foundation.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.Composition.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.Dispatching.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.v1.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.v2.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.Toolkit.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Xaml.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Buffers.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Memory.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Text.Json.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\System.ValueTuple.xml
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.pdb
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.v1.pdb
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.FluentTheme.v2.pdb
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Uno.UI.Toolkit.pdb
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.AssemblyReference.cache
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.ResolveComReference.cache
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.ControlProyectos.CrearProyecto.resources
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.ControlProyectos.VerProyecto.resources
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmLogin.resources
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmMain.resources
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmProyectos.resources
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmUpload.resources
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.frmSingup.resources
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.Properties.Resources.resources
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.GenerateResource.cache
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.csproj.CopyComplete
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.exe
+C:\Users\Mondrik\Documents\ALAN ESCUELA\Documentación IGRTEC\IGRTEC GIT\DesktopCBRConecta\CBRConectaAdmin\obj\Debug\CBRConectaAdmin.pdb
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\RestSharp.dll
+F:\elagu\Documentos\GitHub\DesktopCBRConecta\CBRConectaAdmin\bin\Debug\RestSharp.xml
